@@ -4,6 +4,6 @@ slug  : core-plus-bridge-stress
 seal  : e478d4179886072d513a394ec6a973c3189eb54464b7c3001e0c9576c415e942
 prev  : bd122683b1af8ce03e09f92f23e872e00961afbff6a81befd2de2338405f46a0
 link  : f471d601038ce3f07c59b95383d4cf04fecccdf2c8a8ae9d15f0df95fc8071ff
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
